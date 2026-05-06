@@ -6,7 +6,7 @@ I am a Senior System & Cloud Engineer / SME specializing in enterprise-scale vir
 
 I work with complex, mission-critical environments where availability, performance, security, and disaster recovery are essential for business continuity.
 
-<img width="4543" height="1340" alt="VMware_mermaid-diagram" src="https://github.com/user-attachments/assets/a03f4728-36c8-4d9f-b282-a675ba19d25f" />
+<img width="4543" height="1340" alt="VMware_mermaid-diagram" src="https://github.com/user-attachments/assets/e1441708-9c85-4599-aec7-96453267b48c" />
 
 
 🚀 Core Enterprise Technologies
@@ -78,6 +78,7 @@ I work with complex, mission-critical environments where availability, performan
 - 📧 Email: [your email]
 - 🌐 Blog: https://blogspot.com/
 
-<img width="3839" height="2335" alt="VMware_VCF9_mermaid-diagram" src="https://github.com/user-attachments/assets/0ea6e485-a12e-4e1a-adf0-a034ac2097b2" />
+<img width="3839" height="2335" alt="VMware_VCF9_mermaid-diagram" src="https://github.com/user-attachments/assets/bff291c0-8743-4fc9-8511-e5bd691586af" />
+
 
 
