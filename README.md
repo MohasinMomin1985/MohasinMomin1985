@@ -2,7 +2,7 @@
 
 👋 About Me
 
-I am a Senior System & Cloud Engineer / SME specializing in enterprise-scale virtualization, cloud infrastructure, and data center modernization.
+I am a Sr. System & Cloud Engineer / SME specializing in enterprise-scale virtualization, cloud infrastructure, and data center modernization.
 
 I work with complex, mission-critical environments where availability, performance, security, and disaster recovery are essential for business continuity.
 
