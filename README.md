@@ -47,4 +47,9 @@ I work with complex, mission-critical environments where availability, performan
 ### Get Free $100 credits on Digitial Ocean Cloud - Click below Icon:
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=baecb899587c&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
-
+### Start Building below use cases with free $100 credit
+<img 
+  src="https://github.com/user-attachments/assets/9b6f5702-695f-4bfb-a749-d0b6b340e3c7" 
+  width="50%" 
+  alt="10 digital ocean use cases"
+/>
