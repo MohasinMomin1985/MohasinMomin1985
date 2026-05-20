@@ -50,6 +50,6 @@ I work with complex, mission-critical environments where availability, performan
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-My%20Work-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohasinmomin.lovable.app/#top)
 
-[![Ko-Fi](https://img.shields.io/badge/Ko--Fi-Support%20Me-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/mohasinmomin1985)
-
+### You can support my work:
+[![Buy Me Coffee & Fuel My Creativity](https://img.shields.io/badge/Buy%20Me%20Coffee%20%26%20Fuel%20My%20Creativity-4A90E2?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://superprofile.bio/vp/fuel-my-creativity) [![Buy Me Coffee](https://img.shields.io/badge/Buy%20Me%20Coffee-Fuel%20My%20Creativity-6F4E37?style=for-the-badge&logo=coffeescript&logoColor=white)](https://superprofile.bio/vp/fuel-my-creativity) [![Buy Me Coffee](https://img.shields.io/badge/Buy%20Me%20Coffee-Fuel%20My%20Creativity-3B2F2F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://superprofile.bio/vp/fuel-my-creativity)
 
