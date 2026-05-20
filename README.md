@@ -35,20 +35,11 @@ I work with complex, mission-critical environments where availability, performan
 
 ### Tools & Ecosystem
 
-![VMware](https://img.shields.io/badge/VMware-vSphere%20%2F%20NSX-607078?style=for-the-badge&logo=vmware&logoColor=white)
-
-![Azure](https://img.shields.io/badge/Microsoft_Azure-AVS-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-vSphere%20%2F%20NSX-607078?style=for-the-badge&logo=vmware&logoColor=white) ![Azure](https://img.shields.io/badge/Microsoft_Azure-AVS-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-Automation-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
 
 ### Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohasin%20Momin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohasinmomin/)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-My%20Work-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohasinmomin.lovable.app/#top)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohasin%20Momin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohasinmomin/) [![Portfolio](https://img.shields.io/badge/Portfolio-My%20Work-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohasinmomin.lovable.app/#top)
 
 ### You can support my work:
 [![Buy Me Coffee & Fuel My Creativity](https://img.shields.io/badge/Buy%20Me%20Coffee%20%26%20Fuel%20My%20Creativity-4A90E2?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://superprofile.bio/vp/fuel-my-creativity) [![Buy Me Coffee](https://img.shields.io/badge/Buy%20Me%20Coffee-Fuel%20My%20Creativity-6F4E37?style=for-the-badge&logo=coffeescript&logoColor=white)](https://superprofile.bio/vp/fuel-my-creativity) [![Buy Me Coffee](https://img.shields.io/badge/Buy%20Me%20Coffee-Fuel%20My%20Creativity-3B2F2F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://superprofile.bio/vp/fuel-my-creativity)
