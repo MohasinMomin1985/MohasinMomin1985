@@ -1,84 +1,55 @@
-🏢 Enterprise Virtualization & Cloud Infrastructure Expertise
+# Mohasin Momin
+### Sr. System & Cloud Engineer
 
-👋 About Me
+---
 
-I am a Sr. System & Cloud Engineer / SME specializing in enterprise-scale virtualization, cloud infrastructure, and data center modernization.
+### About Me
+
+I am a Senior System & Cloud Engineer and Subject Matter Expert (SME) specializing in enterprise-scale virtualization, cloud infrastructure, and data center modernization.
 
 I work with complex, mission-critical environments where availability, performance, security, and disaster recovery are essential for business continuity.
 
-<img width="4543" height="1340" alt="VMware_mermaid-diagram" src="https://github.com/user-attachments/assets/e1441708-9c85-4599-aec7-96453267b48c" />
+
+### What I Do
+
+* **Architect Enterprise Virtualization Solutions**: Designing secure and resilient cloud and virtualization infrastructure.
+* **Secure & Scalable Infrastructure Design**: Implementing Zero Trust policies and modern network architectures.
+* **Disaster Recovery Planning**: Orchestrating failovers, optimizing RPO/RTO strategies, and ensuring operational compliance.
+* **Workload Migration**: Managing the movement of business workloads from on-premises to modern hybrid cloud environments.
 
 
-🚀 Core Enterprise Technologies
+### Technical Expertise
 
-🖥️ Server Virtualization
-- VMware vSphere (ESXi, vCenter)
-- Virtual Machine lifecycle management
-- Resource optimization & performance tuning
-- High Availability (HA) & Distributed Resource Scheduler (DRS)
+#### Server & Network Virtualization
+* **VMware vSphere (ESXi, vCenter)**: Virtual Machine lifecycle management, resource optimization, performance tuning, and High Availability (HA/DRS).
+* **VMware NSX-T Data Center**: Software-Defined Networking (SDN), logical switching, routing, and modern network design.
 
-🌐 Network Virtualization
-- VMware NSX-T Data Center
-- Software-Defined Networking (SDN)
-- Logical switching & routing
-- Micro-segmentation architecture
+#### Network Security & Disaster Recovery
+* **VMware NSX vDefend Firewall**: Distributed firewalling, East-West traffic security, Zero Trust implementations, and micro-segmentation.
+* **VMware Site Recovery Manager (SRM)**: Datacenter recovery plan automation, live fire testing, and business continuity readiness.
 
-🔐 Network Security & Micro-Segmentation
-- VMware NSX vDefend Firewall
-- East-West traffic security
-- Zero Trust Security implementation
-- Application-level segmentation strategies
+#### Hybrid Cloud & Core Platform Engineering
+* **Microsoft Azure VMware Solution (AVS)**: Hybrid cloud architecture design, native cloud integrations, and cloud extension solutions.
+* **Platform Lifecycle Management**: Large-scale upgrades, core cluster designs, capacity management, and day-to-day enterprise operations.
 
-🔄 Disaster Recovery & Business Continuity
-- VMware Site Recovery Manager (SRM)
-- Datacenter failover orchestration
-- Disaster Recovery planning & testing
-- RPO / RTO optimization strategies
 
-☁️ Hybrid Cloud & Azure Integration
-- Microsoft Azure VMware Solution (AVS)
-- Hybrid cloud architecture design
-- Workload migration (On-Prem → Cloud)
-- Cloud connectivity & extension of datacenter
+### Tools & Ecosystem
 
-🏗️ Core Platform Engineering
-- VMware vCenter Server administration
-- Cluster design & scalability planning
-- Lifecycle management & upgrades
-- Enterprise monitoring & operations (BAU)
+![VMware](https://img.shields.io/badge/VMware-vSphere%20%2F%20NSX-607078?style=for-the-badge&logo=vmware&logoColor=white)
 
-🧠 What I Do as an SME
+![Azure](https://img.shields.io/badge/Microsoft_Azure-AVS-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-  - ✔ Architect enterprise virtualization solutions
-  - ✔ Design secure and scalable cloud infrastructures
-  - ✔ Troubleshoot complex production incidents
-  - ✔ Lead datacenter modernization initiatives
-  - ✔ Support global enterprise environments
-  - ✔ Ensure HA, DR, and business continuity compliance
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
-🔧 Tools & Ecosystem
-- VMware vSphere / ESXi / vCenter
-- VMware NSX-T / NSX vDefend
-- VMware SRM
-- Microsoft Azure VMware Solution (AVS)
-- PowerShell / PowerCLI
-- Terraform (Infrastructure as Code basics)
-- Monitoring & Logging tools (enterprise-grade stacks)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-📈 Focus Areas
-- Datacenter transformation to hybrid cloud
-- Secure workload mobility
-- Zero downtime architectures
-- Network virtualization & segmentation
-- Disaster recovery automation
-- Enterprise scalability & performance tuning
 
-📫 Connect With Me
-- 💼 LinkedIn: [Add your profile link]
-- 📧 Email: [your email]
-- 🌐 Blog: https://blogspot.com/
+### Connect with Me
 
-<img width="3839" height="2335" alt="VMware_VCF9_mermaid-diagram" src="https://github.com/user-attachments/assets/bff291c0-8743-4fc9-8511-e5bd691586af" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohasin%20Momin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohasinmomin/)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-My%20Work-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohasinmomin.lovable.app/#top)
+
+[![Ko-Fi](https://img.shields.io/badge/Ko--Fi-Support%20Me-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/mohasinmomin1985)
 
 
