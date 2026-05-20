@@ -6,7 +6,6 @@
 ### About Me
 
 I am a Senior System & Cloud Engineer and Subject Matter Expert (SME) specializing in enterprise-scale virtualization, cloud infrastructure, and data center modernization.
-
 I work with complex, mission-critical environments where availability, performance, security, and disaster recovery are essential for business continuity.
 
 
@@ -16,6 +15,7 @@ I work with complex, mission-critical environments where availability, performan
 * **Secure & Scalable Infrastructure Design**: Implementing Zero Trust policies and modern network architectures.
 * **Disaster Recovery Planning**: Orchestrating failovers, optimizing RPO/RTO strategies, and ensuring operational compliance.
 * **Workload Migration**: Managing the movement of business workloads from on-premises to modern hybrid cloud environments.
+![Enterprise Architecture](https://img.shields.io/badge/Architecture-Enterprise%20Virtualization%20Solutions-2E86C1?style=for-the-badge&logo=icloud&logoColor=white) ![Secure Infrastructure](https://img.shields.io/badge/Security-Secure%20%26%20Scalable%20Infrastructure-1ABC9C?style=for-the-badge&logo=datadog&logoColor=white) ![Disaster Recovery](https://img.shields.io/badge/DR-Disaster%20Recovery%20Planning-E74C3C?style=for-the-badge&logo=cloudflare&logoColor=white) ![Workload Migration](https://img.shields.io/badge/Migration-Workload%20%26%20Cloud%20Migration-F39C12?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 
 ### Technical Expertise
@@ -23,15 +23,17 @@ I work with complex, mission-critical environments where availability, performan
 #### Server & Network Virtualization
 * **VMware vSphere (ESXi, vCenter)**: Virtual Machine lifecycle management, resource optimization, performance tuning, and High Availability (HA/DRS).
 * **VMware NSX-T Data Center**: Software-Defined Networking (SDN), logical switching, routing, and modern network design.
+![VMware vSphere](https://img.shields.io/badge/VMware-vSphere%20(ESXi%20%2F%20vCenter)-607078?style=for-the-badge&logo=vmware&logoColor=white)  ![VMware NSX-T](https://img.shields.io/badge/VMware-NSX--T%20Data%20Center-0078D4?style=for-the-badge&logo=vmware&logoColor=white)
 
 #### Network Security & Disaster Recovery
 * **VMware NSX vDefend Firewall**: Distributed firewalling, East-West traffic security, Zero Trust implementations, and micro-segmentation.
 * **VMware Site Recovery Manager (SRM)**: Datacenter recovery plan automation, live fire testing, and business continuity readiness.
+![NSX vDefend](https://img.shields.io/badge/VMware-NSX%20vDefend%20Firewall-EE0000?style=for-the-badge&logo=vmware&logoColor=white)  ![VMware SRM](https://img.shields.io/badge/VMware-Site%20Recovery%20Manager%20(SRM)-FF6B6B?style=for-the-badge&logo=vmware&logoColor=white)
 
 #### Hybrid Cloud & Core Platform Engineering
 * **Microsoft Azure VMware Solution (AVS)**: Hybrid cloud architecture design, native cloud integrations, and cloud extension solutions.
 * **Platform Lifecycle Management**: Large-scale upgrades, core cluster designs, capacity management, and day-to-day enterprise operations.
-
+![Azure VMware Solution](https://img.shields.io/badge/Microsoft%20Azure-VMware%20Solution%20(AVS)-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)  ![Platform Engineering](https://img.shields.io/badge/Platform-Engineering%20%26%20Lifecycle%20Management-4A90E2?style=for-the-badge&logo=icloud&logoColor=white)
 
 ### Tools & Ecosystem
 
